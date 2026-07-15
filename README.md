@@ -40,6 +40,10 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       </a>
       <h3 align="center">Vently</h3>
       <p align="center">Anonymous emotional chat and WebRTC voice calling.</p>
+      <p align="center">
+        <a href="https://vently-web-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-16A34A?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Open Vently live demo" /></a>
+        <a href="https://github.com/praveen202105/Vently"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Vently source" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://devmailer.up.railway.app/">
@@ -47,6 +51,10 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       </a>
       <h3 align="center">DevMailer</h3>
       <p align="center">Email outreach with reusable templates and delivery tracking.</p>
+      <p align="center">
+        <a href="https://devmailer.up.railway.app/"><img src="https://img.shields.io/badge/Live_Demo-16A34A?style=flat-square&amp;logo=railway&amp;logoColor=white" alt="Open DevMailer live demo" /></a>
+        <a href="https://github.com/praveen202105/DevMailer"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View DevMailer source" /></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -56,6 +64,9 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       </a>
       <h3 align="center">LLM File Assistant</h3>
       <p align="center">LLM-powered tools for reading, searching and managing files.</p>
+      <p align="center">
+        <a href="https://github.com/praveen202105/LLM-Powered-File-System-Assistant"><img src="https://img.shields.io/badge/View_Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View LLM File Assistant source" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/praveen202105/Google-Agentic-Ai-Hackathon">
@@ -63,6 +74,10 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       </a>
       <h3 align="center">Project Kisan</h3>
       <p align="center">An agentic AI platform for modern agriculture.</p>
+      <p align="center">
+        <a href="https://nextjs-app-424265826546.asia-south1.run.app"><img src="https://img.shields.io/badge/Live_Demo-16A34A?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Open Project Kisan live demo" /></a>
+        <a href="https://github.com/praveen202105/Google-Agentic-Ai-Hackathon"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project Kisan source" /></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -92,6 +107,13 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
   </a>
 </p>
 
+## Engineering focus
+
+- **Real-time experiences** — WebRTC voice calling, Socket.IO communication and responsive interaction flows.
+- **Product engineering** — user-focused interfaces backed by practical APIs, authentication and data workflows.
+- **Applied AI** — LLM-powered file tools and agentic workflows built around clear product use cases.
+- **End-to-end delivery** — projects shipped across Vercel, Railway and Google Cloud-hosted environments.
+
 ## Languages, tools and skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -111,6 +133,9 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## A little more about my work
