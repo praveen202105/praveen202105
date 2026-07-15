@@ -10,7 +10,7 @@
 
 ### Full-Stack Product Developer · Mumbai, India 🇮🇳
 
-I am a full-stack developer at **FYND**, based in Mumbai, building reliable web products from interface to infrastructure. My work spans **TypeScript, React, Next.js, NestJS, Express, Python, PostgreSQL, MongoDB and Redis**.
+I am a **Software Development Engineer I at FYND** with nearly three years of professional experience building reliable web products from interface to infrastructure. Previously at **ITC Infotech**, I worked on enterprise applications, APIs and real-time data experiences.
 
 I enjoy shipping end-to-end products—especially real-time applications and AI-assisted tools. Recent work includes anonymous chat and WebRTC voice calling, a focused email outreach workspace, and an LLM file-system assistant.
 
@@ -28,7 +28,25 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
   <a href="https://leetcode.com/u/Praveen219/">
     <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" />
   </a>
+  <a href="mailto:coderpraveengupta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Praveen" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#professional-impact">Professional impact</a> ·
+  <a href="#languages-tools-and-skills">Tech stack</a> ·
+  <a href="#achievements">Achievements</a> ·
+  <a href="#lets-connect-">Connect</a>
+</p>
+
+## Professional impact
+
+- **2M+ events per month at 99.9% uptime** — developed a company-specific message bus with PostgreSQL and Temporal Workflows for the Fynd Konnect platform.
+- **70% faster environment provisioning and 30% lower infrastructure cost** — led a multi-tenant redesign that enabled on-demand, company-specific marketplace deployments.
+- **Marketplace onboarding reduced from 3 weeks to 5 days** — implemented DSL interpreters that centralized inventory and order logic into workflow-driven processes.
+- **20+ production REST APIs** — delivered Node.js/Express services at ITC Infotech while improving end-to-end performance by 30%.
 
 ## Selected work
 
@@ -39,7 +57,8 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
         <img src="./vently-home.jpg" width="100%" alt="Vently application home dashboard" />
       </a>
       <h3 align="center">Vently</h3>
-      <p align="center">Anonymous emotional chat and WebRTC voice calling.</p>
+      <p align="center">Mood-based chat, AI fallback and WebRTC voice/video calling.</p>
+      <p align="center"><sub>Next.js · NestJS · Socket.IO · WebRTC · Redis · RAG</sub></p>
       <p align="center">
         <a href="https://vently-web-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-16A34A?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Open Vently live demo" /></a>
         <a href="https://github.com/praveen202105/Vently"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Vently source" /></a>
@@ -51,6 +70,7 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       </a>
       <h3 align="center">DevMailer</h3>
       <p align="center">Email outreach with reusable templates and delivery tracking.</p>
+      <p align="center"><sub>Templates · Personalized sending · Delivery tracking</sub></p>
       <p align="center">
         <a href="https://devmailer.up.railway.app/"><img src="https://img.shields.io/badge/Live_Demo-16A34A?style=flat-square&amp;logo=railway&amp;logoColor=white" alt="Open DevMailer live demo" /></a>
         <a href="https://github.com/praveen202105/DevMailer"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View DevMailer source" /></a>
@@ -64,6 +84,7 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       </a>
       <h3 align="center">LLM File Assistant</h3>
       <p align="center">LLM-powered tools for reading, searching and managing files.</p>
+      <p align="center"><sub>React/Vite · Flask · Groq · File tools</sub></p>
       <p align="center">
         <a href="https://github.com/praveen202105/LLM-Powered-File-System-Assistant"><img src="https://img.shields.io/badge/View_Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View LLM File Assistant source" /></a>
       </p>
@@ -74,6 +95,7 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       </a>
       <h3 align="center">Project Kisan</h3>
       <p align="center">An agentic AI platform for modern agriculture.</p>
+      <p align="center"><sub>Next.js · Kotlin · Python · FastAPI</sub></p>
       <p align="center">
         <a href="https://nextjs-app-424265826546.asia-south1.run.app"><img src="https://img.shields.io/badge/Live_Demo-16A34A?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Open Project Kisan live demo" /></a>
         <a href="https://github.com/praveen202105/Google-Agentic-Ai-Hackathon"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Project Kisan source" /></a>
@@ -82,7 +104,12 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
   </tr>
 </table>
 
-### Vently product tour
+<details>
+<summary><strong>Explore project screenshots</strong></summary>
+
+<br />
+
+<h3>Vently product tour</h3>
 
 <p align="center">
   <a href="https://vently-web-gamma.vercel.app/">
@@ -96,7 +123,7 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
   </a>
 </p>
 
-### DevMailer product tour
+<h3>DevMailer product tour</h3>
 
 <p align="center">
   <a href="https://devmailer.up.railway.app/">
@@ -106,6 +133,8 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
     <img src="./devmailer-templates.jpg" width="49%" alt="DevMailer email template library" />
   </a>
 </p>
+
+</details>
 
 ## Engineering focus
 
@@ -120,6 +149,8 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
@@ -136,14 +167,16 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## A little more about my work
+## Project architecture
 
-- **Vently** ([live](https://vently-web-gamma.vercel.app/)) — anonymous emotional chat and WebRTC voice calling with Next.js, NestJS, Socket.IO, Prisma, PostgreSQL and Redis.
-- **DevMailer** ([live](https://devmailer.up.railway.app/)) — email outreach workspace with reusable templates, personalized sending and delivery tracking.
+- **Vently** ([live](https://vently-web-gamma.vercel.app/) · [source](https://github.com/praveen202105/Vently)) — a Turborepo monorepo with Next.js 15, NestJS 10, typed shared contracts, Redis matchmaking, Socket.IO chat, WebRTC voice/video calling and AI fallback powered by Groq, Gemini embeddings and RAG.
+- **DevMailer** ([live](https://devmailer.up.railway.app/) · [source](https://github.com/praveen202105/DevMailer)) — an email outreach workspace with reusable templates, personalized sending and delivery tracking.
 - **LLM File Assistant** ([repository](https://github.com/praveen202105/LLM-Powered-File-System-Assistant)) — local file-system tooling powered by Flask, React/Vite and Groq-hosted language models, with direct read, list, write and search tools.
-- **Project Kisan** ([live](https://nextjs-app-424265826546.asia-south1.run.app)) — agentic agriculture platform spanning Next.js, Android/Kotlin and a Python/FastAPI agents server.
+- **Project Kisan** ([live](https://nextjs-app-424265826546.asia-south1.run.app) · [source](https://github.com/praveen202105/Google-Agentic-Ai-Hackathon)) — an agentic agriculture platform spanning Next.js, Android/Kotlin and a Python/FastAPI agents server.
 
 ## GitHub stats
 
@@ -156,6 +189,12 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen202105&amp;theme=github_dark" alt="Praveen's GitHub contribution activity" />
 </p>
 
+## Achievements
+
+- **Finalist — Google Cloud Agentic AI Day 2025**, selected from **57,000+ applicants**. [View certificate](https://drive.google.com/file/d/1DRRw6DmAVJa_qxOuZ5WWaX7fQLA2hvYd/view?usp=sharing)
+- **900+ LeetCode problems solved**, strengthening data structures, algorithms and problem-solving skills. [View profile](https://leetcode.com/u/Praveen219/)
+- **2nd Place — CodeRush**, ranked second among **1,000+ college-level participants**.
+
 ### Let’s connect 🤝
 
 I am always interested in thoughtful product ideas, full-stack engineering and practical AI applications.
@@ -163,5 +202,8 @@ I am always interested in thoughtful product ideas, full-stack engineering and p
 <p>
   <a href="https://www.linkedin.com/in/praveen-gupta-45708b183/">
     <img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Message Praveen on LinkedIn" />
+  </a>
+  <a href="mailto:coderpraveengupta@gmail.com">
+    <img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Praveen" />
   </a>
 </p>
