@@ -12,7 +12,7 @@
 
 I am a full-stack developer at **FYND**, based in Mumbai, building reliable web products from interface to infrastructure. My work spans **TypeScript, React, Next.js, NestJS, Express, Python, PostgreSQL, MongoDB and Redis**.
 
-I enjoy shipping end-to-end products—especially real-time applications and AI-assisted tools. Recent work includes anonymous chat and WebRTC voice calling, an AI-powered legal assistant, and an LLM file-system assistant.
+I enjoy shipping end-to-end products—especially real-time applications and AI-assisted tools. Recent work includes anonymous chat and WebRTC voice calling, a focused email outreach workspace, and an LLM file-system assistant.
 
 **What I bring →** Full-stack ownership + product thinking + the ability to turn an idea into a deployed application.
 
@@ -40,11 +40,11 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
       <p align="center">Anonymous emotional chat and WebRTC voice calling.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://apnalegal.vercel.app/">
-        <img src="./nyayai.jpg" width="100%" alt="NyayAI legal assistant application" />
+      <a href="https://devmailer.up.railway.app/">
+        <img src="./devmailer-dashboard.jpg" width="100%" alt="DevMailer outreach dashboard" />
       </a>
-      <h3 align="center">NyayAI</h3>
-      <p align="center">A mobile-first legal assistance platform.</p>
+      <h3 align="center">DevMailer</h3>
+      <p align="center">Email outreach with reusable templates and delivery tracking.</p>
     </td>
   </tr>
   <tr>
@@ -79,6 +79,17 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
   </a>
 </p>
 
+### DevMailer product tour
+
+<p align="center">
+  <a href="https://devmailer.up.railway.app/">
+    <img src="./devmailer-dashboard.jpg" width="49%" alt="DevMailer dashboard and delivery overview" />
+  </a>
+  <a href="https://devmailer.up.railway.app/">
+    <img src="./devmailer-templates.jpg" width="49%" alt="DevMailer email template library" />
+  </a>
+</p>
+
 ## Languages, tools and skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -98,7 +109,7 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
 ## A little more about my work
 
 - **Vently:** Anonymous emotional chat and WebRTC voice calling with Next.js, NestJS, Socket.IO, Prisma, PostgreSQL and Redis.
-- **NyayAI:** Mobile-first legal assistance platform with React, Vite, Express, TypeScript and MongoDB.
+- **DevMailer:** Email outreach workspace with reusable templates, personalized sending and delivery tracking.
 - **LLM File Assistant:** Local file-system tooling powered by Python, Flask, React and Groq-hosted language models.
 - **Project Kisan:** Agentic agriculture platform spanning Next.js, Android, Python and FastAPI.
 
