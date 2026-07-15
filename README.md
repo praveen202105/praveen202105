@@ -123,8 +123,12 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
 ## GitHub stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=praveen202105&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="Praveen's GitHub stats" />
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen202105&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;title_color=6EA8FE&amp;text_color=94A3B8" alt="Praveen's most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveen202105&amp;theme=github_dark" alt="Praveen's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveen202105&amp;theme=github_dark" alt="Praveen's top repository languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen202105&amp;theme=github_dark" alt="Praveen's GitHub contribution activity" />
 </p>
 
 ### Let’s connect 🤝
