@@ -34,7 +34,7 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/praveen202105/Vently">
-        <img src="./vently.jpg" width="100%" alt="Vently real-time application project" />
+        <img src="./vently-home.jpg" width="100%" alt="Vently application home dashboard" />
       </a>
       <h3 align="center">Vently</h3>
       <p align="center">Anonymous emotional chat and WebRTC voice calling.</p>
@@ -64,6 +64,20 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
     </td>
   </tr>
 </table>
+
+### Vently product tour
+
+<p align="center">
+  <a href="https://vently-web-gamma.vercel.app/">
+    <img src="./vently-home.jpg" width="32%" alt="Vently home dashboard" />
+  </a>
+  <a href="https://vently-web-gamma.vercel.app/mood">
+    <img src="./vently-mood.jpg" width="32%" alt="Vently mood selection screen" />
+  </a>
+  <a href="https://vently-web-gamma.vercel.app/profile">
+    <img src="./vently-profile.jpg" width="32%" alt="Vently profile screen" />
+  </a>
+</p>
 
 ## Languages, tools and skills
 
