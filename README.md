@@ -30,23 +30,40 @@ I enjoy shipping end-to-end products—especially real-time applications and AI-
 
 ## Selected work
 
-<p align="center">
-  <a href="https://github.com/praveen202105/Vently">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praveen202105&amp;repo=Vently&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="Vently repository" />
-  </a>
-  <a href="https://github.com/praveen202105/apnalegal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praveen202105&amp;repo=apnalegal&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="NyayAI repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/praveen202105/LLM-Powered-File-System-Assistant">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praveen202105&amp;repo=LLM-Powered-File-System-Assistant&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="LLM File Assistant repository" />
-  </a>
-  <a href="https://github.com/praveen202105/Google-Agentic-Ai-Hackathon">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=praveen202105&amp;repo=Google-Agentic-Ai-Hackathon&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="Agentic AI Hackathon repository" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/praveen202105/Vently">
+        <img src="./vently.jpg" width="100%" alt="Vently real-time application project" />
+      </a>
+      <h3 align="center">Vently</h3>
+      <p align="center">Anonymous emotional chat and WebRTC voice calling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apnalegal.vercel.app/">
+        <img src="./nyayai.jpg" width="100%" alt="NyayAI legal assistant application" />
+      </a>
+      <h3 align="center">NyayAI</h3>
+      <p align="center">A mobile-first legal assistance platform.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/praveen202105/LLM-Powered-File-System-Assistant">
+        <img src="./llm-file-assistant.jpg" width="100%" alt="LLM File Assistant repository" />
+      </a>
+      <h3 align="center">LLM File Assistant</h3>
+      <p align="center">LLM-powered tools for reading, searching and managing files.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/praveen202105/Google-Agentic-Ai-Hackathon">
+        <img src="./project-kisan.jpg" width="100%" alt="Project Kisan agentic agriculture platform" />
+      </a>
+      <h3 align="center">Project Kisan</h3>
+      <p align="center">An agentic AI platform for modern agriculture.</p>
+    </td>
+  </tr>
+</table>
 
 ## Languages, tools and skills
 
